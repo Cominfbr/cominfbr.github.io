@@ -74,4 +74,4 @@ Outros arquivos
 ## Licença
 
 Lemon Theme © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/cominfbr.github.io/blob/master/LICENSE">licença MIT</a>. De autoria e manutenção de Carlos Vítor com a ajuda de <a href="https://github.com/Cominfbr/cominfbr.github.io/pulse">colaboradores</a>.
-> Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: href="linkedin.com/company/cominfbr">Cominfbr</a>
+> Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: <a href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: <a href="linkedin.com/company/cominfbr">Cominfbr</a>
