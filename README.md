@@ -1,3 +1,6 @@
+<p align="center">
+<img with="240" height="200" src="https://github.com/Cominfbr/Marca/blob/Master/logo_transparent.png" alt="Logo CominfBR">
+</p>
 <h1 align="center">Cominfbr Site</h1>
 
 ## Sobre
@@ -47,19 +50,19 @@ sitemap.xml
 
 As partials do nosso site, os "pedaços" do site.
 
-footer.html: o footer do template
-/blog: o blog da página
-/postagens : o postagens do blog
-LICENSE
+- footer.html: o footer do template
+- /blog: o blog da página
+- /postagens : o postagens do blog
+- LICENSE
 
 O scaffolding para o Jekyll gerar nosso site.
 
 Outros arquivos
 
-CNAME: mapeamento do nosso domínio para o DNS
-_config.yml: o arquivo de configuração do nosso site
-index.html: o index do site
-robots.txt: muito importante para SEO, confira aqui
+- CNAME: mapeamento do nosso domínio para o DNS
+- _config.yml: o arquivo de configuração do nosso site
+- index.html: o index do site
+- robots.txt: muito importante para SEO, confira aqui
 
 ## Contribuidores
 
@@ -70,5 +73,5 @@ robots.txt: muito importante para SEO, confira aqui
 ---
 ## Licença
 
-Lemon Theme © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/cominfbr.github.io/blob/master/LICENSE">licença MIT</a>. De autoria e manutenção de Carlos Vítor com a ajuda de href="https://github.com/Cominfbr/cominfbr.github.io/pulse">colaboradores</a>.
+Lemon Theme © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/cominfbr.github.io/blob/master/LICENSE">licença MIT</a>. De autoria e manutenção de Carlos Vítor com a ajuda de <a href="https://github.com/Cominfbr/cominfbr.github.io/pulse">colaboradores</a>.
 > Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: href="linkedin.com/company/cominfbr">Cominfbr</a>
