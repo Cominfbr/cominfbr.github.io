@@ -60,7 +60,7 @@ section.hero a:not(.button), footer.hero a:not(.button) { color: #ffffff; font-s
 
 section.alternate, footer.alternate { background: #eee; }
 
-.button { padding: 13px 38px; border-radius: 3px; display: inline-block; color: #FFA715; text-decoration: none; cursor: pointer; margin: 20px 0 0 0; border: 1px solid #fff; background: #00ffff; text-decoration: none !important; }
+.button { padding: 13px 38px; border-radius: 3px; display: inline-block; color: #fff; text-decoration: none; cursor: pointer; margin: 20px 0 0 0; border: 1px solid #fff; background: #00ffff; text-decoration: none !important; }
 
 .button:hover { background: rgba(255, 255, 255, 0.3); color: #fff; }
 
